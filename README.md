@@ -18,7 +18,7 @@ If you choose to read on, you'll discover some of my interests, experiences, and
 
 #### Living in the Nation's Capital
 
-### (gibberish, hogwash, malarkey, flapdoodle, crapola) aka: Half-Baked Ideas
+### gibberish, hogwash, malarkey, flapdoodle, crapola—aka: Half-Baked Ideas
 
 ### How We Get What We Value
 

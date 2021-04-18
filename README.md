@@ -23,6 +23,7 @@ Digital:
 
 #### Cycling—in the Direction of Delicious Food, of Course!
 Last season I was able to get 2000km in! But more importantly, I made it to 8 new patios, 6 ice cream shops, 4 beaches, and 2 provinces—all with a new friend I met in grad school!
+
 This season, the goal is 3000km, keeping in mind the need to be covid-wise, but also getting outside as much as possible for my mental health! For me, the best part of riding comes at and after dusk, when you're moving between dense trails and open fields, experiencing the temperature anomalies that accompany the changes in terrain. There is also something to be said about travelling by headlamp after dark—nothing seems to matter much but the few visable meters ahead.
 
 #### Reading for Pleasure

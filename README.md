@@ -25,7 +25,7 @@ Digital:
 - Chess
 
 #### Reading for Pleasure
-The covid-19 pandemic has reignited my passion for reading, perhaps in part due to the lack of access to regular social activities. Nevertheless, I found comfort in Viktor Frankl's 'Man's Search for Meaning', Tim Wu's 'The Master Switch', and Chris Hadfield's 'An Astronaut's Guide to Life on Earth', to name a few.
+The covid-19 pandemic has reignited my passion for reading, perhaps in part due to a lack of access to traditional social activities. Nevertheless, I found comfort in Viktor Frankl's 'Man's Search for Meaning', Tim Wu's 'The Master Switch', and Chris Hadfield's 'An Astronaut's Guide to Life on Earth', to name a few.
 
 #### The Ottawa Senators—Exciting years ahead!
 *add by May 1

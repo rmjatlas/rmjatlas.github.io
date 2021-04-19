@@ -8,7 +8,7 @@ Last season, I was able to get 1500km in! But more importantly, I made it to 8 n
 
 This season, the goal is 3000km, keeping in mind the need to be covid-wise, but also getting outside as much as possible for my mental health. For me, the best part of riding comes at and after dusk, when you're moving between dense trails and open fields, experiencing the temperature anomalies that accompany the changes in terrain. There is also something to be said about travelling by headlamp after dark—nothing seems to matter much, save for the few visable meters ahead.
 
-#### Games—Board Games, card Games, you name it!
+#### Games—Board Games, Card Games, You Name it!
 On my shelf:
 - Scarbble Jr & Sr
 - Catan (base & 5-6 player expansion)

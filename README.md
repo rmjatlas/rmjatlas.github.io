@@ -10,7 +10,7 @@ This season, the goal is 3000km, keeping in mind the need to be covid-wise, but 
 
 #### Games—Board Games, Card Games, You Game it!
 On my shelf:
-- Scarbble Jr & Sr
+- Scrabble Jr & Sr
 - Catan (base & 5-6 player expansion)
 - Tsuro
 - Betrayal at the House on the Hill

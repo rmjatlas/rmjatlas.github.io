@@ -37,7 +37,7 @@ Being a bus driver is not always easy. Rush hour can be stressful, people can be
 #### Grad Student Life
 Full disclosure: I haven't crossed the finish line just yet. But I'm getting closer every day. I was lucky—I was lucky to get in. I cold-emailed the program director and asked for his blessing to enroll in two graduate-level courses despite not formally being admitted to the program. Soon after I cleared that hurdle, I began to make friends, learn new things, and a year later, I was admitted to the program with credit for the two courses that I'd completed. My initial preference for a thesis supervisor selected another student over me. Admittedly, I studied alongside her the next year; she was brilliant, an excellent scholar, writer, communicator, she could do it all—and it seems like a sure bet that she will go on to do great things. It was suggested to me that I consider working with Dr. Fraser Taylor, instead. Dr. Taylor graciously took me under his wing, and a short time later, I began to realize the gift I had been given. Here was a man whose kindness knew no bounds, whose personal and professional accomplishments could easily be confused with that of an entire academic department, yet Dr. Taylor took care of me, he nurtured me and instilled a sense of humility in light of dynamism. I almost don't want this procees to end. Maybe I can prolong this relationship, this experience, by giving my time to some of the projects currently underway in his lab.
 
-#### Living in the Nation's Capital
+#### The Joys of Serving Nation's Capital
 *add by May 1 2021
 
 ### gibberish, hogwash, malarkey, flapdoodle, crapola—aka: Half-Baked Ideas

@@ -25,10 +25,10 @@ Digital:
 - Chess
 
 #### Reading for Pleasure
-The covid-19 pandemic has reignited my passion for reading, perhaps in part due to a lack of access to traditional social activities. Nevertheless, I found comfort in Viktor Frankl's 'Man's Search for Meaning', Tim Wu's 'The Master Switch', and Chris Hadfield's 'An Astronaut's Guide to Life on Earth', to name a few.
+The covid-19 pandemic has reignited my passion for reading, perhaps in part due to a lack of access to traditional social activities. Nevertheless, I found comfort in Viktor Frankl's *Man's Search for Meaning*, Tim Wu's *The Master Switch*, and Chris Hadfield's *An Astronaut's Guide to Life on Earth*, to name a few.
 
 #### The Ottawa Senators—Brady Tkachuk fan boy right here!
-Do you even lift? Five different Ottawa Senators t-shirts make up my gym uniform. On Tuesday, Wednesday and Thursday, I sport the retro logo, the current logo or the pride logo, and on Mondays and Fridays, you can find me squatting with the Tkachuk name bar on my back. Why this pattern? It's pretty simple—Brady drags the boys into battle on a regular basis, so on Mondays and Fridays when I might need that extra boost to get going or finish the week off strong, I like to channel my inner warrior and ask: "What would Brady do?" [The kids are alright!](https://www.youtube.com/watch?v=53eb7ILMLew)
+Do you even lift? Five different Ottawa Senators t-shirts make up my gym uniform. On Tuesday, Wednesday and Thursday, I sport the retro logo, the current logo or the pride logo, and on Mondays and Fridays, you can find me squatting with the Tkachuk name bar on my back. Why this pattern? It's pretty simple—Brady drags the boys into battle on a regular basis, so on Mondays and Fridays when I might need that extra boost to get going or finish the week off strong, I like to channel my inner warrior and ask: **What would Brady do?** [The kids are alright!](https://www.youtube.com/watch?v=53eb7ILMLew)
 
 ### Experiences
 #### The Subtle Art of Being a Bus Driver

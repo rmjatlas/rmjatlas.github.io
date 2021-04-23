@@ -1,6 +1,6 @@
 ## Welcome, I'm glad you made it this far!
 My goal in preparing this short note is to offer a glimpse into my humble, yet amazing life. Amazing, because of all the extraordinary people I've met along the way.
-If you choose to read on, you'll discover some of my interests, experiences, and half-baked ideas—nothing earth-shattering, but you might just trip over something that tickles your fancy.
+If you choose to read on, you'll discover some of my interests, experiences, and half-baked ideas—nothing earth-shattering, but you might just trip over something that tickles your fancy. Or, you maybe you'd prefer visit my [GitHub repositories](https://github.com/rmjatlas) instead!
 
 ### Interests
 #### Cycling—in the Direction of Delicious Food, of Course!

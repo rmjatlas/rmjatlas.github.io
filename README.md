@@ -49,7 +49,7 @@ Full disclosure: I haven't crossed the finish line just yet. But I'm getting clo
 #### How We Get What We Value—This Is a Declarative Statement, Not a Question
 - this discussion is currently on the walls in my Ideas Room (a spare room at the rear of my apartment). I hope to bring some ideas out one day soon.
 
-### Credits
+### Acknowledgements
 To all the people who make me look tall, thank you.
 
 

@@ -10,25 +10,31 @@ This season, the goal is 3000km, keeping in mind the need to be covid-wise, but 
 <h4>Games—Board Games, Card Games, You Game it!</h4>
 
 On my shelf:
-- Scrabble Jr & Sr
-- Catan (base & 5-6 player expansion)
-- Tsuro
-- Betrayal at the House on the Hill
-- Joking Hazard
-- Digital Monopoly
-- Labyrinth
-- Poker Set
+<ul>
+  <li>Scrabble Jr & Sr/li>
+  <li>Catan (base & 5-6 player expansion)</li>
+  <li>Tsuro</li>
+  <li>Betrayal at the House on the Hill</li>
+  <li>Joking Hazard</li>
+  <li>Digital Monopoly</li>
+  <li>Labyrinth</li>
+  <li>Poker Set</li>
+</ul> 
 
 Digital:
-- Cribbage
-- Euchre
-- Chess
+<ul>
+  <li>Cribbage</li>
+  <li>Euchre</li>
+  <li>Chess</li>
+</ul> 
+
 
 <h4>Reading for Pleasure</h4>
 The covid-19 pandemic has reignited my passion for reading, perhaps in part due to a lack of access to traditional social activities. Nevertheless, I found comfort in Viktor Frankl's *Man's Search for Meaning*, Tim Wu's *The Master Switch*, and Chris Hadfield's *An Astronaut's Guide to Life on Earth*, to name a few.
 
 <h4>The Ottawa Senators—Brady Tkachuk fan boy right here!</h4>
-Do you even lift? Five different Ottawa Senators t-shirts make up my gym uniform. On Tuesday, Wednesday and Thursday, I sport the retro logo, the current logo or the pride logo, and on Mondays and Fridays, you can find me squatting with the Tkachuk name bar on my back. Why this pattern? It's pretty simple—Brady drags the boys into battle on a regular basis, so on Mondays and Fridays when I might need that extra boost to get going or finish the week off strong, I like to channel my inner warrior and ask: **What would Brady do?** [The kids are alright!](https://www.youtube.com/watch?v=53eb7ILMLew)
+Do you even lift? Five different Ottawa Senators t-shirts make up my gym uniform. On Tuesday, Wednesday and Thursday, I sport the retro logo, the current logo or the pride logo, and on Mondays and Fridays, you can find me squatting with the Tkachuk name bar on my back. Why this pattern? It's pretty simple—Brady drags the boys into battle on a regular basis, so on Mondays and Fridays when I might need that extra boost to get going or finish the week off strong, I like to channel my inner warrior and ask: **What would Brady do?** <a href="https://www.youtube.com/watch?v=53eb7ILMLew">The kids are alright!</a>
+
 
 <h3>Experiences</h3>
 <h4>The Subtle Art of Being a Bus Driver</h4>

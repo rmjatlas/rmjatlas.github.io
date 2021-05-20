@@ -1,9 +1,10 @@
-## Welcome, I'm glad you made it this far!
-My goal in preparing this short note is to offer a glimpse into my humble, yet amazing life. Amazing, because of all the extraordinary people I've met along the way.
-If you choose to read on, you'll discover some of my interests, experiences, and half-baked ideas—nothing earth-shattering, but you might just trip over something that tickles your fancy. Or, you maybe you'd prefer visit my [GitHub repositories](https://github.com/rmjatlas) instead!
+<h2>Welcome, I'm glad you made it this far!</h2>
 
-### Interests
-#### Cycling—in the Direction of Delicious Food, of Course!
+My goal in preparing this short note is to offer a glimpse into my humble, yet amazing life. Amazing, because of all the extraordinary people I've met along the way. If you choose to read on, you'll discover some of my interests, experiences, and half-baked ideas—nothing earth-shattering, but you might just trip over something that tickles your fancy. Or, you maybe you'd prefer visit my [GitHub repositories](https://github.com/rmjatlas) instead!
+
+<h3>Interests</h3>
+
+<h4>Cycling—in the Direction of Delicious Food, of Course!</h4>
 Last season, I was able to get 1500km in! But more importantly, I made it to 8 new patios, 6 ice cream shops, and 4 beaches, in 2 provinces—all with a new friend I met in grad school!
 
 This season, the goal is 3000km, keeping in mind the need to be covid-wise, but also getting outside as much as possible for my mental health. For me, the best part of riding comes at and after dusk, when you're moving between dense trails and open fields, experiencing the temperature anomalies that accompany the changes in terrain. There is also something to be said about travelling by headlamp after dark—nothing seems to matter much, save for the few visable meters ahead.

@@ -14,7 +14,7 @@ This season, the goal is 3000km, keeping in mind the need to be covid-wise, but 
 
 On my shelf:
 <ul>
-  <li>Scrabble Jr & Sr/li>
+  <li>Scrabble Jr & Sr</li>
   <li>Catan (base & 5-6 player expansion)</li>
   <li>Tsuro</li>
   <li>Betrayal at the House on the Hill</li>

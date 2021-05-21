@@ -1,14 +1,11 @@
 <!DOCTYPE html>
 
-
 <h2>Welcome, I'm glad you made it this far!</h2>
 My goal in preparing this short note is to offer a glimpse into my humble, yet amazing life. Amazing, because of all the extraordinary people I've met along the way. If you choose to read on, you'll discover some of my interests, experiences, and half-baked ideas—nothing earth-shattering, but you might just trip over something that tickles your fancy. Or, you maybe you'd prefer visit my <a href="https://github.com/rmjatlas">GitHub repositories</a> instead!
 
 <h3>Interests</h3
 <h4>Cycling—in the Direction of Delicious Food, of Course!</h4>
-Last season, I was able to get 1500km in! But more importantly, I made it to 8 new patios, 6 ice cream shops, and 4 beaches, in 2 provinces—all with a new friend I met in grad school!
-
-This season, the goal is 3000km, keeping in mind the need to be covid-wise, but also getting outside as much as possible for my mental health. For me, the best part of riding comes at and after dusk, when you're moving between dense trails and open fields, experiencing the temperature anomalies that accompany the changes in terrain. There is also something to be said about travelling by headlamp after dark—nothing seems to matter much, save for the few visable meters ahead.
+Last season, I was able to get 1500km in! But more importantly, I made it to 8 new patios, 6 ice cream shops, and 4 beaches, in 2 provinces—all with a new friend I met in grad school! This season, the goal is 3000km, keeping in mind the need to be covid-wise, but also getting outside as much as possible for my mental health. For me, the best part of riding comes at and after dusk, when you're moving between dense trails and open fields, experiencing the temperature anomalies that accompany the changes in terrain. There is also something to be said about travelling by headlamp after dark—nothing seems to matter much, save for the few visable meters ahead.
 
 <h4>Games—Board Games, Card Games, You Game it!</h4>
 
@@ -30,7 +27,6 @@ Digital:
   <li>Euchre</li>
   <li>Chess</li>
 </ul> 
-
 
 <h4>Reading for Pleasure</h4>
 The covid-19 pandemic has reignited my passion for reading, perhaps in part due to a lack of access to traditional social activities. Nevertheless, I found comfort in Viktor Frankl's <i>Man's Search for Meaning</i>, Tim Wu's <i>The Master Switch</i>, and Chris Hadfield's <i>An Astronaut's Guide to Life on Earth</i>, to name a few.
@@ -60,10 +56,5 @@ Full disclosure: I haven't crossed the finish line just yet. But I'm getting clo
 
 <h3>Acknowledgements</h3>
 To all the people who make me look tall, thank you.
-
-
-
-
-
 
 

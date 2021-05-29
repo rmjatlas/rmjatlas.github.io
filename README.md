@@ -3,9 +3,6 @@ My goal in preparing this short note is to offer a glimpse into my humble, yet a
 
 <h3>Interests</h3>
 <h4>Cycling—in the Direction of Delicious Food, of Course!</h4>
-
-<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/4955045/activity-summary/d35ab124a29b2b77fc217b8244145f3bb4265aea'></iframe>
-
 Last season, I was able to get 1500km in! But more importantly, I made it to 8 new patios, 6 ice cream shops, and 4 beaches, in 2 provinces—all with a new friend I met in grad school! This season, the goal is 3000km, keeping in mind the need to be covid-wise, but also getting outside as much as possible for my mental health. For me, the best part of riding comes at and after dusk, when you're moving between dense trails and open fields, experiencing the temperature anomalies that accompany the changes in terrain. There is also something to be said about travelling by headlamp after dark—nothing seems to matter much, save for the few visable meters ahead.
 
 <iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/4955045/latest-rides/d35ab124a29b2b77fc217b8244145f3bb4265aea'></iframe>
